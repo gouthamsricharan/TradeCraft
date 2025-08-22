@@ -1,4 +1,4 @@
-# Zerodha Clone
+# Trade Craft
 
 A full-stack trading application with frontend, dashboard, and backend services.
 
